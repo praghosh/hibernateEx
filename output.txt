@@ -1,0 +1,6 @@
+This is a test file
+to test Java IO
+Have a nice day.
+
+**********************
+**********************
